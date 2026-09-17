@@ -1,0 +1,352 @@
+[
+  {
+    "id": "beh-001",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Tell me about a time you handled a conflict with a coworker.",
+    "keywords": ["situation", "task", "action", "result", "communicat*", "resolv*", "conflict", "compromise"]
+  },
+  {
+    "id": "beh-002",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Describe a time you failed at something. What did you learn?",
+    "keywords": ["fail*", "learn*", "mistake", "improve*", "reflect*", "result", "action"]
+  },
+  {
+    "id": "beh-003",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Tell me about a time you had to meet a tight deadline.",
+    "keywords": ["deadline", "priorit*", "plan*", "time", "result", "deliver*", "pressure"]
+  },
+  {
+    "id": "beh-004",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Describe a situation where you showed leadership without formal authority.",
+    "keywords": ["lead*", "team", "initiative", "influence*", "situation", "action", "result"]
+  },
+  {
+    "id": "beh-005",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Tell me about a time you disagreed with your manager's decision.",
+    "keywords": ["disagree*", "manager", "communicat*", "respect*", "outcome", "compromise", "result"]
+  },
+  {
+    "id": "beh-006",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Describe a time you had to work with a difficult team member.",
+    "keywords": ["difficult", "team", "communicat*", "empath*", "situation", "action", "result"]
+  },
+  {
+    "id": "beh-007",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Tell me about a time you went above and beyond for a customer or user.",
+    "keywords": ["customer", "extra", "effort", "situation", "action", "result", "satisf*"]
+  },
+  {
+    "id": "beh-008",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Describe a time you had to adapt quickly to an unexpected change.",
+    "keywords": ["adapt*", "change", "flexib*", "situation", "action", "result", "unexpected"]
+  },
+  {
+    "id": "beh-009",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Tell me about a time you received harsh feedback. How did you respond?",
+    "keywords": ["feedback", "respond*", "improve*", "reflect*", "action", "result", "grow*"]
+  },
+  {
+    "id": "beh-010",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Describe a time you had to prioritize multiple competing tasks.",
+    "keywords": ["priorit*", "task", "manage*", "situation", "action", "result", "deadline"]
+  },
+  {
+    "id": "beh-011",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Tell me about a time you took initiative on a project without being asked.",
+    "keywords": ["initiative", "proactive*", "situation", "action", "result", "impact"]
+  },
+  {
+    "id": "beh-012",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Describe a situation where you had to persuade someone to see things your way.",
+    "keywords": ["persuad*", "convinc*", "communicat*", "situation", "action", "result"]
+  },
+  {
+    "id": "beh-013",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Tell me about a time you made a mistake at work and how you handled it.",
+    "keywords": ["mistake", "own*", "correct*", "situation", "action", "result", "learn*"]
+  },
+  {
+    "id": "beh-014",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Describe a time you had to work under ambiguous or unclear instructions.",
+    "keywords": ["ambigu*", "clarif*", "assum*", "situation", "action", "result"]
+  },
+  {
+    "id": "beh-015",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Tell me about a time you mentored or helped a colleague grow.",
+    "keywords": ["mentor*", "teach*", "help*", "situation", "action", "result", "grow*"]
+  },
+  {
+    "id": "beh-016",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Describe a time you had to make a decision with incomplete information.",
+    "keywords": ["decision", "incomplete", "risk", "situation", "action", "result"]
+  },
+  {
+    "id": "beh-017",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Tell me about a time you dealt with a stressful, high-pressure situation.",
+    "keywords": ["stress*", "pressure", "calm", "situation", "action", "result"]
+  },
+  {
+    "id": "beh-018",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Describe a time you had to give constructive criticism to a peer.",
+    "keywords": ["feedback", "constructive", "communicat*", "situation", "action", "result"]
+  },
+  {
+    "id": "beh-019",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Tell me about a time you had to learn a new skill quickly to complete a task.",
+    "keywords": ["learn*", "quick*", "skill", "situation", "action", "result"]
+  },
+  {
+    "id": "beh-020",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Describe a time you worked on a team with a shared goal but different opinions.",
+    "keywords": ["team", "goal", "opinion", "compromise", "situation", "action", "result"]
+  },
+  {
+    "id": "beh-021",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Tell me about a time you had to say no to a request and how you handled it.",
+    "keywords": ["say no", "boundar*", "communicat*", "situation", "action", "result"]
+  },
+  {
+    "id": "beh-022",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Describe an ethical dilemma you faced at work and how you resolved it.",
+    "keywords": ["ethic*", "integrity", "dilemma", "situation", "action", "result"]
+  },
+  {
+    "id": "beh-023",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Tell me about a time you had to balance competing stakeholder expectations.",
+    "keywords": ["stakeholder", "balance", "expectation", "situation", "action", "result"]
+  },
+  {
+    "id": "beh-024",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Describe a time your project did not go as planned. What did you do?",
+    "keywords": ["project", "plan*", "problem", "situation", "action", "result"]
+  },
+  {
+    "id": "beh-025",
+    "track": "general behavioral",
+    "type": "behavioral",
+    "question": "Tell me about your proudest professional achievement.",
+    "keywords": ["proud", "achieve*", "impact", "situation", "action", "result"]
+  },
+  {
+    "id": "swe-001",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "Explain the difference between a process and a thread.",
+    "keywords": ["process", "thread", "memory", "share*", "context switch", "lightweight"]
+  },
+  {
+    "id": "swe-002",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "What is the difference between TCP and UDP?",
+    "keywords": ["tcp", "udp", "reliab*", "connection", "order*", "latency", "packet"]
+  },
+  {
+    "id": "swe-003",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "Explain the CAP theorem and its implications for distributed systems.",
+    "keywords": ["consisten*", "availab*", "partition", "distributed", "trade-off", "tradeoff"]
+  },
+  {
+    "id": "swe-004",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "How would you design a URL shortener service?",
+    "keywords": ["hash", "database", "scal*", "collision", "redirect", "cache"]
+  },
+  {
+    "id": "swe-005",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "What is the difference between SQL and NoSQL databases?",
+    "keywords": ["sql", "nosql", "schema", "scal*", "relational", "consisten*"]
+  },
+  {
+    "id": "swe-006",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "Explain Big-O notation and why it matters.",
+    "keywords": ["big-o", "complexity", "time", "space", "scal*", "efficien*"]
+  },
+  {
+    "id": "swe-007",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "How does a hash table handle collisions?",
+    "keywords": ["hash", "collision", "bucket", "chain*", "probe", "load factor"]
+  },
+  {
+    "id": "swe-008",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "What is garbage collection and how does it work?",
+    "keywords": ["garbage", "memory", "collect*", "reference", "heap", "allocat*"]
+  },
+  {
+    "id": "swe-009",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "Describe the difference between a monolith and a microservices architecture.",
+    "keywords": ["monolith", "microservice", "scal*", "deploy*", "coupling", "independen*"]
+  },
+  {
+    "id": "swe-010",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "How would you design a rate limiter for an API?",
+    "keywords": ["rate limit", "token bucket", "window", "throttle", "request", "scal*"]
+  },
+  {
+    "id": "swe-011",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "What is a race condition and how do you prevent one?",
+    "keywords": ["race condition", "lock", "concurren*", "thread", "mutex", "atomic"]
+  },
+  {
+    "id": "swe-012",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "Explain how database indexing improves query performance.",
+    "keywords": ["index", "query", "performance", "b-tree", "lookup", "scan"]
+  },
+  {
+    "id": "swe-013",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "What caching strategies would you use to speed up a web application?",
+    "keywords": ["cache", "ttl", "invalidat*", "latency", "memory", "cdn"]
+  },
+  {
+    "id": "swe-014",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "Explain the four pillars of object-oriented programming.",
+    "keywords": ["encapsulat*", "inherit*", "polymorph*", "abstract*", "object", "class"]
+  },
+  {
+    "id": "swe-015",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "What is the singleton design pattern and when would you use it?",
+    "keywords": ["singleton", "instance", "pattern", "global", "state", "design"]
+  },
+  {
+    "id": "swe-016",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "Describe the testing pyramid and why it is useful.",
+    "keywords": ["unit test", "integration", "end-to-end", "pyramid", "coverage", "confidence"]
+  },
+  {
+    "id": "swe-017",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "What is a CI/CD pipeline and why is it important?",
+    "keywords": ["ci/cd", "continuous", "pipeline", "deploy*", "automat*", "test"]
+  },
+  {
+    "id": "swe-018",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "How does SQL injection work and how do you prevent it?",
+    "keywords": ["sql injection", "sanitiz*", "parameteriz*", "escape", "security", "vulnerab*"]
+  },
+  {
+    "id": "swe-019",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "Tell me about a time you tracked down and fixed a difficult production bug.",
+    "keywords": ["bug", "debug*", "log*", "root cause", "situation", "action", "result"]
+  },
+  {
+    "id": "swe-020",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "Describe your approach to reviewing a teammate's pull request.",
+    "keywords": ["review", "feedback", "readab*", "test", "standard*", "communicat*"]
+  },
+  {
+    "id": "swe-021",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "Tell me about a time you had to decide between shipping fast and paying down technical debt.",
+    "keywords": ["technical debt", "trade-off", "tradeoff", "situation", "action", "result", "priorit*"]
+  },
+  {
+    "id": "swe-022",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "Describe a time you improved the performance or scalability of a system you owned.",
+    "keywords": ["performance", "scal*", "bottleneck", "situation", "action", "result", "optimiz*"]
+  },
+  {
+    "id": "swe-023",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "What load balancing strategies are you familiar with?",
+    "keywords": ["load balanc*", "round robin", "hash", "server", "traffic", "distribut*"]
+  },
+  {
+    "id": "swe-024",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "Explain what a memory leak is and how you would detect one.",
+    "keywords": ["memory leak", "heap", "profil*", "reference", "detect*", "allocat*"]
+  },
+  {
+    "id": "swe-025",
+    "track": "software engineering",
+    "type": "technical",
+    "question": "Tell me about a time you had to explain a complex technical concept to a non-technical stakeholder.",
+    "keywords": ["explain", "communicat*", "simplif*", "situation", "action", "result", "stakeholder"]
+  }
+]
